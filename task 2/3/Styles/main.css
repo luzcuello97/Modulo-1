@@ -1,0 +1,24 @@
+*{font-family: 'Lemon';
+background-color: rgb(123, 231, 15);
+color: #043b3b;}
+.container{display: grid;
+    grid-template-columns: repeat(3,200px); 
+    grid-gap: 20px;
+    justify-content: center;}
+    div>img{border: 2px solid black;}
+header{text-align: center;font-size: 25px;}
+h2{text-align: center;text-decoration: underline;
+}
+#logo{
+    display: block;
+    width: 110px; height: 110px;
+    padding: 30px 30px; position: absolute; top: 0px;}
+    nav{
+        padding: 5px;
+       text-align: center;}
+    div{text-align: center;}
+    section>p{text-align: center; font-size: 14px;margin-top: 20px;}
+    div>img{margin-top: 40px;}
+    footer{text-align: end;}
+   
+       

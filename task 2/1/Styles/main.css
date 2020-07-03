@@ -1,0 +1,27 @@
+*{font-family:Verdana;}
+#logo{
+    display: block;
+    width: 110px;height: 110px;
+    position: absolute;
+    right: 120px;
+    top: 440px;}
+nav{
+    padding: 20px;width: 30vw;
+    float: left; height: 500px;}
+nav>a {
+    display:block;
+ padding: 10px;}
+
+main{width: 70vw;}
+h1{font-size: 50px;}
+header{
+    height: 435px; 
+    background-image: url("../design1_image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;}
+h2{ display: block;
+    text-align: center;
+    background-color: black; color: white;
+    padding: 10px;
+    margin: 0px;}
+section{ float: left;margin-top: 30px;}
